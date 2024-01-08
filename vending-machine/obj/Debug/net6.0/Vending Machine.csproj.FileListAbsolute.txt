@@ -1,0 +1,15 @@
+C:\repo\vending-machine\obj\Debug\net6.0\Vending Machine.csproj.AssemblyReference.cache
+C:\repo\vending-machine\obj\Debug\net6.0\Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\vending-machine\obj\Debug\net6.0\Vending Machine.AssemblyInfoInputs.cache
+C:\repo\vending-machine\obj\Debug\net6.0\Vending Machine.AssemblyInfo.cs
+C:\repo\vending-machine\obj\Debug\net6.0\Vending Machine.csproj.CoreCompileInputs.cache
+C:\repo\vending-machine\bin\Debug\net6.0\Vending Machine.exe
+C:\repo\vending-machine\bin\Debug\net6.0\Vending Machine.deps.json
+C:\repo\vending-machine\bin\Debug\net6.0\Vending Machine.runtimeconfig.json
+C:\repo\vending-machine\bin\Debug\net6.0\Vending Machine.dll
+C:\repo\vending-machine\bin\Debug\net6.0\Vending Machine.pdb
+C:\repo\vending-machine\obj\Debug\net6.0\Vending Machine.dll
+C:\repo\vending-machine\obj\Debug\net6.0\refint\Vending Machine.dll
+C:\repo\vending-machine\obj\Debug\net6.0\Vending Machine.pdb
+C:\repo\vending-machine\obj\Debug\net6.0\Vending Machine.genruntimeconfig.cache
+C:\repo\vending-machine\obj\Debug\net6.0\ref\Vending Machine.dll
