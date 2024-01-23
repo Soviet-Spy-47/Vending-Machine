@@ -1,0 +1,16 @@
+A1|Potato Crisps|2.00|Chip
+A2|Pringles|3.05|Chip
+A3|Grain Waves|2.75|Chip
+A4|Puff Corn|3.55|Chip
+B1|Moonpie|1.80|Candy
+B2|Cowtail|1.50|Candy
+B3|Wonka Bar|1.50|Candy
+B4|Krunch|1.75|Candy
+C1|Coke|1.25|Drink
+C2|Dr.P|1.35|Drink
+C3|Mountain Dew|1.65|Drink
+C4|Pepsi|1.55|Drink
+D1|U-Chews|0.85|Gum
+D2|Little League Chew|1.00|Gum
+D3|Chiclets|0.75|Gum
+D4|Double Mint|0.75|Gum
